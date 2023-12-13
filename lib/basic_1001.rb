@@ -1,5 +1,5 @@
 class Calculator
-  def sum(a, b)
-    a + b 
-  end 
+  def sum(number1, number2)
+    number1 + number2
+  end
 end
